@@ -1,0 +1,14 @@
+asgiref==3.7.2
+cffi==1.16.0
+cryptography==41.0.7
+Django==4.2.7
+django-rest-knox==4.2.0
+djangorestframework==3.14.0
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==5.3.0
+pycparser==2.21
+PyJWT==1.7.1
+pytz==2023.3.post1
+setuptools==69.0.2
+sqlparse==0.4.4
+tzdata==2023.3
